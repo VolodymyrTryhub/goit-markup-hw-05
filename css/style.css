@@ -679,10 +679,6 @@ a {
     transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-/* .modan-inside {
-    padding: 72px 24px 24px 24px;
-} */
-
 .modal-text {
     font-weight: 500;
     font-size: 16px;
@@ -726,7 +722,7 @@ a {
 }
 
 .form-input:focus {
-    fill: #4D5AE5;
+    border-color: #4D5AE5;
 }
 
 .input-icon {
