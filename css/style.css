@@ -725,6 +725,10 @@ a {
     fill: #4D5AE5;
 }
 
+.form-input:focus {
+    fill: #4D5AE5;
+}
+
 .input-icon {
     position: absolute;
     left: 16px;
